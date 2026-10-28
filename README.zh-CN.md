@@ -4,12 +4,12 @@
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.3** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.4** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-01-integrated-portrait)**
 https://motiongit.com/@adunext/template-01-integrated-portrait
 
-Demo 已公开，模板下载即将开放。
+下载已开放，当前许可见模板页面与下载包。
 
 ## Demo
 
