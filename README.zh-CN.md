@@ -9,7 +9,7 @@
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-01-integrated-portrait)**
 https://motiongit.com/@adunext/template-01-integrated-portrait
 
-下载已开放，当前许可见模板页面与下载包。
+Demo 已公开，模板下载即将开放。
 
 ## Demo
 

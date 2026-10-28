@@ -4,7 +4,7 @@ Support narration with modern editorial layouts, text emphasis and information b
 
 Template & full download: https://motiongit.com/@adunext/template-01-integrated-portrait
 Version: 2.7.18-alpha.3
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 ## Technical reference
 

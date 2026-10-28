@@ -9,7 +9,7 @@ Support narration with modern editorial layouts, text emphasis and information b
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-01-integrated-portrait)**
 https://motiongit.com/@adunext/template-01-integrated-portrait
 
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 ## Demo
 

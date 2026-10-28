@@ -4,7 +4,7 @@
 
 模板与完整下载: https://motiongit.com/@adunext/template-01-integrated-portrait
 版本: 2.7.18-alpha.3
-下载已开放，当前许可见模板页面与下载包。
+Demo 已公开，模板下载即将开放。
 
 ## 技术资料
 
